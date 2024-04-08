@@ -1,0 +1,32 @@
+.one {
+    position: fixed;
+    top: 355px;
+    left: 683px;
+    z-index: 1;
+    height: 80;
+    width: 370;		 
+}
+
+.two{
+    position: fixed;
+    top: 445px;
+    left: 1035px;
+    z-index: 1;
+    height: 60;
+    width: 150;	
+}
+
+.three{
+    position: fixed;
+    top: 100px;
+    left: 300px;
+    z-index: 1;
+    height: 80;
+    width: 250;	
+}
+.ans1{
+    color:brown;
+}
+.ans11{
+    color:brown;
+}
